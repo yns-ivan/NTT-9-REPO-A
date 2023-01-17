@@ -27,5 +27,5 @@ jobs:
       with:
         token: ${{ secrets.PAT }}
         repository: username/my-repo
-        event-type: my-event
+        event-type: update-microcms
         client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
