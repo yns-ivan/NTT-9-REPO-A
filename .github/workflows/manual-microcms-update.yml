@@ -26,6 +26,6 @@ jobs:
       uses: peter-evans/repository-dispatch@v2
       with:
         token: ${{ secrets.PAT }}
-        repository: username/my-repo
+        repository: yns-ivan/NTT-9-REPO-B
         event-type: update-microcms
         client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
