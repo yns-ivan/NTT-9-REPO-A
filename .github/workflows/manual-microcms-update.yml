@@ -12,13 +12,9 @@ jobs:
   send-signal-to-repo-B:
     # if: ${{ github.event.pull_request.merged }} // uncomment this when disabling manual trigger
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - run: |
-        echo Test Workflow run
-        
+        echo Sending dispatch to repo-B to update microCMS
     - name: Manual microCMS update Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
