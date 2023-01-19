@@ -11,7 +11,7 @@ on:
 
 jobs:
   send-signal-to-repo-B:
-    if: ${{ github.event.pull_request.merged }}
+    # if: ${{ github.event.pull_request.merged }} // uncomment this when disabling manual trigger
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
