@@ -5,6 +5,6 @@ vkws_xzpr9
 title title title
 
 # body
-wow wow wow
+updated updated
 # category
 Trusted Web推進協議会
