@@ -2,9 +2,7 @@
 vkws_xzpr9
 
 # title
-title title title
+Title 1
 
 # body
-updated updated
-# category
 Trusted Web推進協議会
