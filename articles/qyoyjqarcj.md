@@ -2,7 +2,7 @@
 za94ivpd_kf
 
 # title
-Update-3 8
+Update-4 from microcms 8
 
 # body
-Update-3 8
+Update-4 from microcms 8
