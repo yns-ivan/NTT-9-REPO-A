@@ -2,7 +2,7 @@
 23-id
 
 # title
-Update-3 Article 23
+Update-4 from microcms Article 23
 
 # body
-Update-3 Article 23
+Update-4 from microcms Article 23
