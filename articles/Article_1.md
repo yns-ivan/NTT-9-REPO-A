@@ -2,7 +2,7 @@
 laq7hxpcknjn
 
 # title
-Update-3 title
+Update-4 from microcms title
 
 # body
-Update-3 body
+Update-4 from microcms body
