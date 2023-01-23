@@ -2,7 +2,7 @@
 qzgr_6-d7c
 
 # title
-Update-3 Article 17
+Update-4 from microcms Article 17
 
 # body
-Update-3 Article 17
+Update-4 from microcms Article 17
