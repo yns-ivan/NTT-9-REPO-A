@@ -2,7 +2,7 @@
 lx51ve_t267
 
 # title
-Update-3 Article 20
+Update-4 from microcms Article 20
 
 # body
-Update-3 Article 20
+Update-4 from microcms Article 20
