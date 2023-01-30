@@ -2,9 +2,7 @@
 bm-ftkoci
 
 # title
-New
+Test-2
 
 # body
-New
-New
-New
+Test-2 body
